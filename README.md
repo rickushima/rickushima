@@ -1,1 +1,3 @@
-# rickushima
+# ⚙️📊📈 Ric Kushima
+
+TODO Profile customization

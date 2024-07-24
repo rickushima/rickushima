@@ -1,4 +1,4 @@
-![Ric Kushima DE](assets/Banner_RRK.png)
+[![Ric Kushima DE](assets/Banner_RRK.png)](#)
 
 ---
 

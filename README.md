@@ -1,10 +1,16 @@
-<h1 align="center">⚙️📊📈 Ric Kushima</h1>
+![Ric Kushima DE](assets/Banner_RRK.png)
 
-###
-
-- *Data Engineer Professional* and *AI/ML Enthusiast*, creating outstanding data products and solutions to reinvent and innovate world applications 🌎
-- Currently working as *Tech Lead & Data Engineer* at [@btgpactual](https://www.btgpactual.com/)
 ---
+
+<h2>📌 About Me</h2> 
+
+- ***Data Engineer and Tech Lead Professional*** ⚙️📊📈
+- ***AI/ML Student and Enthusiast*** 🧠
+- Creating outstanding data products and solutions to reinvent and innovate world applications 🌎
+- Currently working as *Tech Lead & Data Engineer* at [@btgpactual](https://www.btgpactual.com/) 🇧🇷
+
+---
+
 <details open> 
   <summary><h2>💻 Tech & Tools 🛠️</h2></summary>
   <!--Later on add reference to open code in my repo with language or technology mentioned > example https://github.com/search?q=user%3ADenverCoder1+language%3Apython -->
@@ -65,7 +71,7 @@
 
 ###
 
-<h2 align="left"> Currently Studying</h2>
+<h2 align="left">📚 Currently Studying</h2>
 
 ###
 
